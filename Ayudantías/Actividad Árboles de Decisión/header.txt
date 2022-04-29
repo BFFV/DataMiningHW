@@ -1,0 +1,16 @@
+state_gov
+77516
+bachelors
+Age
+Civil_state
+adm_clerical
+Family
+Race
+Sex
+2174
+0
+40
+Country
+Income
+
+https://data.world/uci/adult
